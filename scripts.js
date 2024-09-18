@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const blueValue = document.getElementById('blueValue');
     const colorBox = document.getElementById('color-box');
     const hexCode = document.getElementById('hexCode');
+    /*COMENTARIO PRUEBA*/
 
     function updateColor() {
         const red = parseInt(redValue.value, 10) || 0;
